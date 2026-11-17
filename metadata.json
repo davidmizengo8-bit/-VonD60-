@@ -1,0 +1,6 @@
+{
+  "name": "Elimu Fasta",
+  "description": "ACSEE Physics & Mathematics student management, live exam arena, physics simulation lab, and AI diagnostic tutoring platform.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
